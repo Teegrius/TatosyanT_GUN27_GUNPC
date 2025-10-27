@@ -12,3 +12,4 @@ C:\Users\user\source\repos\MyFirstUp5\MyFirstUp5\obj\Debug\net8.0\refint\MyFirst
 C:\Users\user\source\repos\MyFirstUp5\MyFirstUp5\obj\Debug\net8.0\MyFirstUp5.pdb
 C:\Users\user\source\repos\MyFirstUp5\MyFirstUp5\obj\Debug\net8.0\MyFirstUp5.genruntimeconfig.cache
 C:\Users\user\source\repos\MyFirstUp5\MyFirstUp5\obj\Debug\net8.0\ref\MyFirstUp5.dll
+C:\Users\user\source\repos\MyFirstUp5\MyFirstUp5\obj\Debug\net8.0\MyFirstUp5.sourcelink.json
