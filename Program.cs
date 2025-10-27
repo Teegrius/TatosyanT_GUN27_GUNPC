@@ -28,7 +28,6 @@ class Program
         }
 
         int result = 0;
-
         switch (op)
         {
             case "&":
